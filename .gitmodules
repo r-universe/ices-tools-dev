@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ices-tools-dev/ices-tools-dev.r-universe.dev
 	branch = HEAD
+[submodule "RDBEScore"]
+	path = RDBEScore
+	url = https://github.com/ices-tools-dev/RDBEScore
+[submodule "mixfishtools"]
+	path = mixfishtools
+	url = https://github.com/ices-tools-dev/mixfishtools
+[submodule "sfdSAR"]
+	path = sfdSAR
+	url = https://github.com/ices-tools-dev/sfdSAR
