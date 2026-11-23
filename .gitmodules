@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ices-tools-dev/ices-tools-dev.r-universe.dev
 	branch = HEAD
+[submodule "FLCore"]
+	path = FLCore
+	url = https://github.com/flr/FLCore
 [submodule "RDBEScore"]
 	path = RDBEScore
 	url = https://github.com/ices-tools-dev/RDBEScore
