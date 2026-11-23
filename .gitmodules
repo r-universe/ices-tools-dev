@@ -32,7 +32,7 @@
 	url = https://github.com/ices-tools-dev/sfdSAR
 [submodule "spict"]
 	path = spict
-	url = https://github.com/DTUAqua/spict
+	url = https://github.com/iagomosqueira/spict
 	subdir = spict
 [submodule "stockassessment"]
 	path = stockassessment
