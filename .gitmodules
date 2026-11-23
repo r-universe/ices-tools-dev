@@ -5,6 +5,9 @@
 [submodule "FLCore"]
 	path = FLCore
 	url = https://github.com/flr/FLCore
+[submodule "FLFishery"]
+	path = FLFishery
+	url = https://github.com/flr/FLFishery
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
@@ -23,3 +26,7 @@
 [submodule "sfdSAR"]
 	path = sfdSAR
 	url = https://github.com/ices-tools-dev/sfdSAR
+[submodule "stockassessment"]
+	path = stockassessment
+	url = https://github.com/fishfollower/SAM
+	subdir = stockassessment
