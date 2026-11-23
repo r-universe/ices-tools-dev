@@ -11,6 +11,9 @@
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
+[submodule "FLfse"]
+	path = FLfse
+	url = https://github.com/flr/FLfse
 [submodule "RDBEScore"]
 	path = RDBEScore
 	url = https://github.com/ices-tools-dev/RDBEScore
