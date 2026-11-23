@@ -30,6 +30,10 @@
 [submodule "sfdSAR"]
 	path = sfdSAR
 	url = https://github.com/ices-tools-dev/sfdSAR
+[submodule "spict"]
+	path = spict
+	url = https://github.com/DTUAqua/spict
+	subdir = spict
 [submodule "stockassessment"]
 	path = stockassessment
 	url = https://github.com/fishfollower/SAM
