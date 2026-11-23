@@ -5,9 +5,6 @@
 [submodule "RDBEScore"]
 	path = RDBEScore
 	url = https://github.com/ices-tools-dev/RDBEScore
-[submodule "RDBESstockCoord"]
-	path = RDBESstockCoord
-	url = https://github.com/ices-tools-dev/RDBESstockCoord
 [submodule "RDBESvisualise"]
 	path = RDBESvisualise
 	url = https://github.com/ices-tools-dev/RDBESvisualise
